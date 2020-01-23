@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="de613991db2600101acfcd3f29961943" sys_domain="global" table="x_447606_my_custom_my_custom_app_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:03:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a613991db2600101acfcd3f29961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_447606_my_custom_my_custom_app_table" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">5a613991db2600101acfcd3f29961941</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:03:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:03:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96613991db2600101acfcd3f29961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_447606_my_custom_my_custom_app_table" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961943</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:03:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_447606_my_custom_my_custom_app_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:03:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de613991db2600101acfcd3f29961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_447606_my_custom_my_custom_app_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_447606_my_custom">14367c19db2200101acfcd3f2996196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">14367c19db2200101acfcd3f2996196b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_de613991db2600101acfcd3f29961943</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:03:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="EndUser" name="EndUser">1e613991db2600101acfcd3f2996193d</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
