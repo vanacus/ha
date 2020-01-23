@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>ec367c11db2200101acfcd3f299619e9</logo>
+        <menu/>
+        <name>My Custom App</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_447606_my_custom</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Demo app</short_description>
+        <source>x_447606_my_custom</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-23 18:44:36</sys_created_on>
+        <sys_id>14367c19db2200101acfcd3f2996196b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-23 18:44:38</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>twitter-icon.png</file_name>
+        <hash>b1ea66e9e5af9efbe1832d1788c16ab76205edc5b2a7b808cb8c583e803a46c6</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3291</size_bytes>
+        <size_compressed>3314</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-23 18:44:37</sys_created_on>
+        <sys_id>ec367c11db2200101acfcd3f299619e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-01-23 18:44:39</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>14367c19db2200101acfcd3f2996196b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="twitter-icon.png" sys_id="ec367c11db2200101acfcd3f299619e9">ec367c11db2200101acfcd3f299619e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-23 18:44:37</sys_created_on>
+        <sys_id>20367c11db2200101acfcd3f299619ea</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AdsMJPOJUE5HDQoaCgAAAA1JSERSAAAA4QAAAOEIAwAAAAltIkgAAABpUExURVmNyv///1WLyVCIyFSKyU+HyEuFx/j6/bHH5Ozy+fL2+/b5/Jy53mSUzWqYz6zE412Qy3+m1aS+4ODp9b7R6Xih0+bt9tnk8p+734yu2c3c7rzP6I6v2ZW028bW66fB4XGc0T9/xHui07zZynwAAAwtSURBVHic7Z1pl4K4EoYhG4qC2O674///kQN2O0JIIFUpEOb43jNz7pdBng5JpVJLgvD/ruDTL9C5voTj15dw/PoSjl9fwvHrSzh+fQnJFG93x+vpNFncbovJ5HQ97lbTqI8f7p5wejzNlwkTgsv8f7lE/o/M/58QLLtfFtdVt7/fJWG0Xc83TEkuWMACkxjLcZVKz5Nd3NVbdEa4mxwSKQUzo2kSXAWb/bETyk4I4+s54cXIAVQMZ/CYbMlfhp4wPm2UhNG9KfOxvBHPS2LCeL2UEkX3H6VQ6Y1yJEkJd5fMD+8PkovllcySEBKu78Cp1wQpg/2U5rWoCOMF41R4v4xCHUhmJA3hdC5o+Z4Sann0fzcKwnhPPH5vRvnYfZ4w2guy6Wdk9PxWvQnXXY3ff4zq4rXX8SQ83inMQxtjMPkU4ezQA19Q2I4EPx19CNdc9MH3ZFSXWe+E06XqZQD/xLNrz4TXoLcB/JO89Ep47mcGVsQTjOHAEa6yvgfwKaYQiyqK8NShiW+WPIB9DgzhpWMb3ySeQn1HOGF85x/jCwrbCNyNgwk/NAXLiLDJCCU8uh2edSq575Dw9AEjURc/dEY4UZ+G+xV/uC+pIMKF/DTaS3zjvE2FEP4MBjD3qFLXUQQQDgkQgOhOOJxP9Ffi7vahOhNOBgaYIz5ICU8DWUXL4ktCwuPgRrCQk8foRrgawE7GJLkgIoyzYQLmH2r70YYT4f3Dm227mGp1+10ILx91l1qUtR0XOxCehgwYiLYFtZ1w9bEjCzfJH1/Cwa4yL6lmp7+V8DzYVeYlJhq3b22E10Ga+qqap2IL4dSSzDQs8ROecDn4b7QQEw1HjM2E6wHut01q+k4bCWcDNxRvqTWO8DCKb7QQY9b1tInwOOjNTFXC6kg1Ed7H8o0W4rY4eAPhegSm8C3rYmMnjAbq9dqkLK6inXA/ollYiGVAwng0luIlad7ZWAn3o7EUL1kG0UY4HdksLGQOLNoI5yObhU8lpoN+C+H4ZmEhadq7WQgXfQ5hPiGYreYE9qDUnbC3WciElEGS3u9pIqT3n9V0oGEmXPc0hIyzw2k1fe6aZ9PdLTV4a5D5wu6uhGk/Q8jFQjvtvCbVRAHG5SUBvIyqu8JGwh1iR8rA9pOJm+G3J+L9ICaDn1kEOewTczfCC9zas+QC/LPwu/lAPv5LCsyHb3OKgJFZltUMhokQE4jJx+MMQuRna5T6ms89ru6L5xcXwxZZWdt/mwgxblMxAQ6A/07WP6e3ZsvkvyI24FlY3YkyES7hQ/i7iLkjOmfDgmPPXC8mMhDGiCEUv8GDs6OVaQ2nvAQPmtQ8DAPhCfOR/plat+WGtYbEXn9siKX4e/amnXCD+EiD1yvfXL6q+nJg0YYzxvl9A3kXpf316oQx4hS4tJeYtOf2Mbc0kXxeK86KwlmQ9dKP+OuEmFhMeV6152cqx/KQbbA8FesGbG1n2hyvE2LCaZXTymnSst6YPACjfi3mCpbxyVjV0NYII/jkrp3HNpcqWM5TbAJnumhp0jXCHcat4Jp5WzeVm0hQ+esWvMHS9qY1wgmGUOhJu3FDyZDzR/p8EHwHqblQNUJUNEaf3bmutrpEcYYAJggnIKh8JDohahqaz4Buwvh23OQzEQLqE1En3OKCFdIUhJ3OuWEcAQvNLEUd2lb9Tp0QGY6xvPZ0z2vPc97QhOEDdypdnTM64Rz3UOtWOpoksvpId8IrMsZedYN1QsSm9CllNwG7fVruBNKYOFEROk2i8jI6IfYYUTTVsUS7nw1/UXKHnNBfoSO0laVGI5xiky9aEpPyVeP4s5FKSq5a8tDeSpHvEvByAEMjxGc714y+SdPddXF2HkM0YeVdNEKPTEto1Vy7cKa5UHnbpBEil9JCLCDugOSRey3thIhDqKeK1hiGs0ovbfEH76q0KGiECfKR+0MmhTBEDTyE8nL+CEuHzRoh0liwaRgfL9k/uIp5izyyXcprQpUwRk5D+TyXiHaki43HmlAOlVYJt8iHcp/mIzY98POw/D5VQuyn73zCC9DMI8G8vMOqEmIN/vu8lE5bj9zWspddJbxily96c++VVlf2n6qEmAP9p+zJj2ghgphvwpLd0gixY8g4ebdVrGluJkQdtD0FPARtF9rLeaq0Ma0SeqTRJMSE6AlTiJXepkp4wxO6O7Zu8qqDaCD0cC2sacgoRV5pZ3ZCn2Qv57Cnk/wKj+2E+JUml0iwDccM8iwos640XoSBSIlajvpt2YJqCh+Rxf9D9GiNVxV6c/VHaLWHvrV4jMrJ8PArnu9RSlfQdt7eOYnSkssF086zoqx82EbjPb3FhDz4f6q+RYHlIGmVcOX5ZKaCLNfZ89TNx3F6qhzBqxJO/QhZQmMSvWvmyrGRKmHkOcFpHGFMeqtGWIpvaWdtnqXp3F7oCBA2/vVWOWNHI/QtyKPwMAhq5srhNY3Qx7EuJAFBeotmBHUJqvQ8jdC7zsI1o8sugtLcSgWURui5W8qVee5NsaHtCmH5cFMjXHk/nyVeiMC0brNEOQirR7n9/4Is8Nm3LSlqWSrJEDohOu76FhN4m0HT9a5SV6ITUrQyYfKAtPwUk1DPv9QJ/XzglwTOi9rStO+tpu7phL5+y+tHeDYBrziIvHWjqumXOiHJWlaISXa4gj7WGVVLsWqLs1r2pf+m8KXcVWQPgB+1oaqtrvZyqRES1nAzmQJCUiR24qlq388aIV27D9C1FBEdoJa7VCMkmogMdrVItKGrWtXqnevVCBQTkUl+gSylyFRZs0T1l+uEvhaRMS7uE9Dx9460C7qWKV8n9DgGKu6/U2w5AW5MaS8iEFruo6GyCzwRheRSKqX+YffLZAcOXsxpu6DrHqqBEBpiY5f181ZR3F50l9FWxtf6fxgIoT4iW+LdpdmFul+a/pEaq2Sh1fi5L4FkPBEPYFBN2rMSwmPdgmMY1wl9J6p6awwTISa7Tag77FLG+JR10Wmrnk5g7DiAyqNlKnG/J3V3EZ3cI8FY7RWMhNgwIhePtYOxWN1S5FWsrTKkEBoJI/TeNN+uNd94G18vgX+XFqsM+XXm3iY+LhQrtjW36zauTsso3h4X50TR3VVq+m3TBsZI6JdyVWxNuQrSx+Gyvy0Wi9v+cnikQXF9NRGJTaZeWJYeQxRH67kHlau4alwI683cpDIW7lgI/c++PyFuKjiydTMbR3vdqszNdm2Ew7zuoVnmNF5rV0Fk/eYnJYzHClZC/2B637JkYtu7e45uEPWmJq2EY1tOuaWKtaHLrm9Mv19ZK+caCMlCGL3I2BWyhXCAVzzZZeon2E7oUabau+w5II2ERMHEHqS3j3ElHPYdOmU1FOg2E0bZp1/dTU2dKFrutxjDFSUtvQDabmEZxXfaWAbRepPOCNbT5ly6VsLhb95s2zVXwsHb/bYuAO2E4WHYU7EtGdKBMOqpbzJOrRXIDoThdhAXOZulWsseXQgHfGjD25u/OREOdrVxuU7WjXCgF5Y4VbA4Eg5zQTUfriEJw8fwEJlT3NmZMCJLHSQSE26FD86EtJlZ/mKurTjcCXPLPyBEZ0AIYRgN6F5g4Zy5CiEMZ4NZbph78RGIMAyXgzD9TACyd4CEjm3lu5UAFR5BCcMFTU2Eh/gDlCMIJiSqa8FLQTotowjDFWlGL1QS2iUGQRjGn1tvRAZuuYUhDMMfez/yTsU38OJGHGF4FJ+wjKr5VI2UMJwte19TkZ1TsIRFhn2/C4484Br84AnDbcPtAOTimXujczLC4naAnoaRqQu6450XYTg79/GpMnn3qPL3IwzDXfefKs+8um34EuafatbpgbFQe78WYv6ERdVEV3scJgSkxq8zwjCcJF2MI+MCVONnFg1hGK1T6vnIpPih6IFORJjruFF0SepMyABWw2gVHWG+BZhnksR4MM6WZG17KQnzj/W65L4zkgmVLghb9NMS5pqeNkrirxMWKvuh6Gn3FjlhWBRtLfNlAk4ppEh/SLugFuqCMFd0nN8Dd8qigFikhzVZ78ySOiIsND3elllroUwOJxW7z69b8m7Sv+qQsFA0PU4OqVTFBTMiH9LijvHffz2raZRS2fKnM7inOib802x1XE/252VxwXiuNL1vDvPb6brr4rPU1A/hJ/UlHL++hOPXl3D8+hKOX/9/wn8B98iw+bfimmEAAAAASUVORK5CYILxUX562wwAAA==</data>
+        <length>4408</length>
+        <position>1</position>
+        <sys_attachment display_value="twitter-icon.png" sys_id="ec367c11db2200101acfcd3f299619e9">ec367c11db2200101acfcd3f299619e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-23 18:44:37</sys_created_on>
+        <sys_id>a0367c11db2200101acfcd3f299619ea</sys_id>
+    </sys_attachment_doc>
+</record_update>
