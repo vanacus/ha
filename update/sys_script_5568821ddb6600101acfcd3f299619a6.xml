@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_447606_my_custom_my_custom_app_table</collection>
+        <condition>current.age  &gt; 55</condition>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_447606_my_custom_my_custom_app_table">age&gt;50^EQ<item endquery="false" field="age" goto="false" newquery="false" operator="&gt;" or="false" value="50"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p>You&#39;re too old. Setting your age to 2.</p>]]></message>
+        <name>MyFirstBusinessRule1</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	gs.info('1.previous.age: ' + previous.age + '     current.age: ' + current.age);
+	
+	gs.addInfoMessage('2.previous.age: ' + previous.age + '     current.age: ' + current.age);
+
+	var isEmail = validateEmailAddress('vannme.com');
+	
+	gs.addInfoMessage('lib returned: ' + isEmail);
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 00:46:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5568821ddb6600101acfcd3f299619a6</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>MyFirstBusinessRule1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Custom App" source="x_447606_my_custom">14367c19db2200101acfcd3f2996196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">14367c19db2200101acfcd3f2996196b</sys_scope>
+        <sys_update_name>sys_script_5568821ddb6600101acfcd3f299619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 02:18:17</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=5568821ddb6600101acfcd3f299619a6"/>
+</record_update>
