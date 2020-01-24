@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="de613991db2600101acfcd3f29961942" sys_domain="global" table="x_447606_my_custom_my_custom_app_table" version="3" view="EndUser">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>0592b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>8592b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>0992b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>8992b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>0d92b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:08:26</sys_created_on>
+            <sys_id>8d92b9d1db2600101acfcd3f29961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="1e613991db2600101acfcd3f2996193d">de613991db2600101acfcd3f29961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:08:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_447606_my_custom_my_custom_app_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-23 23:03:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de613991db2600101acfcd3f29961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_447606_my_custom">14367c19db2200101acfcd3f2996196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">14367c19db2200101acfcd3f2996196b</sys_scope>
+            <sys_update_name>sys_ui_section_de613991db2600101acfcd3f29961942</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-23 23:03:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="EndUser" name="EndUser">1e613991db2600101acfcd3f2996193d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

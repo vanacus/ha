@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="b16b0d19db6200101acfcd3f299619ee" sys_domain="global" table="x_447606_my_custom_my_custom_app_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-23 20:17:16</sys_created_on>
-            <sys_id>7d6bcd1ddb6200101acfcd3f299619b2</sys_id>
+            <sys_created_on>2020-01-23 23:55:39</sys_created_on>
+            <sys_id>b86df111db6600101acfcd3f299619cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="Default view">b16b0d19db6200101acfcd3f299619ee</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-23 20:17:16</sys_updated_on>
+            <sys_updated_on>2020-01-23 23:55:39</sys_updated_on>
             <sys_user/>
-            <type>.begin_split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>age</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-23 20:17:16</sys_created_on>
-            <sys_id>756bcd1ddb6200101acfcd3f299619b3</sys_id>
+            <sys_created_on>2020-01-23 23:55:39</sys_created_on>
+            <sys_id>706df111db6600101acfcd3f299619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="Default view">b16b0d19db6200101acfcd3f299619ee</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-23 20:17:16</sys_updated_on>
+            <sys_updated_on>2020-01-23 23:55:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-23 20:17:16</sys_created_on>
-            <sys_id>f56bcd1ddb6200101acfcd3f299619b3</sys_id>
+            <sys_created_on>2020-01-23 23:55:39</sys_created_on>
+            <sys_id>f06df111db6600101acfcd3f299619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="Default view">b16b0d19db6200101acfcd3f299619ee</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-23 20:17:16</sys_updated_on>
+            <sys_updated_on>2020-01-23 23:55:39</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,29 +46,15 @@
             <element>my_string_field</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-23 20:17:16</sys_created_on>
-            <sys_id>796bcd1ddb6200101acfcd3f299619b3</sys_id>
+            <sys_created_on>2020-01-23 23:55:39</sys_created_on>
+            <sys_id>746df111db6600101acfcd3f299619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="Default view">b16b0d19db6200101acfcd3f299619ee</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-23 20:17:16</sys_updated_on>
+            <sys_updated_on>2020-01-23 23:55:39</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-01-23 20:17:16</sys_created_on>
-            <sys_id>f96bcd1ddb6200101acfcd3f299619b3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_447606_my_custom_my_custom_app_table" sys_domain="global" view="Default view">b16b0d19db6200101acfcd3f299619ee</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-01-23 20:17:16</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
