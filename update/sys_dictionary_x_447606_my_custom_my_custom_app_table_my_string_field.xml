@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-23 18:52:21</sys_created_on>
-        <sys_id>94d695d5dba200101acfcd3f299619d1</sys_id>
+        <sys_id>2bc2fdd1db2600101acfcd3f29961941</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>My string field</sys_name>
         <sys_package display_value="My Custom App" source="x_447606_my_custom">14367c19db2200101acfcd3f2996196b</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="My Custom App">14367c19db2200101acfcd3f2996196b</sys_scope>
         <sys_update_name>sys_dictionary_x_447606_my_custom_my_custom_app_table_my_string_field</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-23 21:07:09</sys_updated_on>
+        <sys_updated_on>2020-01-23 23:09:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
